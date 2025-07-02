@@ -1,10 +1,10 @@
-## 📚 Week 3: Mathematics for Machine Learning
+## 📚 Mathematics for Machine Learning
 
 This repo. focus my learning on building a strong mathematical foundation to understand and implement machine learning models effectively. It covers both theoretical concepts and practical applications.
 
 ---
 
-### 🗓️ Weekly Breakdown
+### 🗓️ Breakdown
 
 | S/N | Topic                                                                 |
 |-----|-----------------------------------------------------------------------|
