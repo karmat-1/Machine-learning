@@ -15,12 +15,20 @@ This repo. focus my learning on building a strong mathematical foundation to und
 | 5   | **Probability Theory and Distributions** – Bayes’ Theorem, normal distribution, probability rules |
 | 6   | **Statistics Fundamentals** – Mean, median, variance, standard deviation, hypothesis testing |
 | 7   | **Math-Driven Mini Project** – Implemented **Linear Regression from Scratch** using NumPy |
+| 8   | **Probability Theory and Random Variables**    |
+| 9   | **Probability Distributions in Machine Learning**  |
+| 10   | **Statistical Inference - Estimation and Confidence Intervals**  |
+| 11   | **Hypothesis Testing and P-Values** |
+| 12   | **Types of Hypothesis Tests** |
+| 13   | **Correlation and Regression Analysis**  |
+| 14   | **Statistical Analysis Project – Analyzing Real-World Data** |
+
 
 ---
 
 ### 🎯 Learning Outcomes
 
-- ✅ Strengthened my understanding of linear algebra in the context of ML models  
+- ✅ Strengthened my understanding of linear algebra, Probability and Statistics in the context of ML models  
 - ✅ Applied calculus concepts to understand optimization and learning algorithms  
 - ✅ Built a foundational knowledge of probability and statistical analysis  
 - ✅ Completed a mini project that combined all learned math skills into a working model  
