@@ -22,7 +22,13 @@ This repo. focus my learning on building a strong mathematical foundation to und
 | 12   | **Types of Hypothesis Tests** |
 | 13   | **Correlation and Regression Analysis**  |
 | 14   | **Statistical Analysis Project – Analyzing Real-World Data** |
-
+| 15   | **Machine learning basics and terminologies** |
+| 16   | **Introduction to Supervised learning and Regression** |
+| 17   | **Advanced Regression Model - Polynomial regression and Regularization** |
+| 18   | **Introduction to Classification and Logistic Regression** |
+| 19   | **Model Evaluatin and Cross Validation** |
+| 20   | **K-Nearest Neighbors (K-NNs) Algorithm** |
+| 21   | **Supervised Learning Mini-Project** |
 
 ---
 
